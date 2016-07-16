@@ -1,0 +1,12 @@
+bootstrap - Estão os arquivos do bootstrap que estamos usando no layout do projeto. Por segurança não altere eles.
+classes - Estão os arquivos de conexão do banco de dados e o CRUD que tem a função de dele e de busca dos arquivos no banco, elas já estão prontas, é só chamar no seu formulário.
+css-extra - tudo o que você usar de css além do que é do bootstrap deve ficar nessa pasta.
+ius - o insert(cadastrar) e o update(atualizar) que você criar para o seu formulário deve ficar aqui, os dois em um único arquivo.
+
+Os outros arquivos são as páginas em sí, vamos deixá-las na raíz.
+
+Fique á vontade para usar o cad_equipamentos.php e o equipamento.php como base para a página que for criar, é bom que tenhamos um padrão.
+
+Qualquer dúvida entre em contato comigo,
+
+Pamela.
